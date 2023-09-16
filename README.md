@@ -30,3 +30,7 @@ For More Visit: https://cloud.google.com/vertex-ai/docs/generative-ai/learn/mode
 
 - **Hashtag Generation**: Automatically generate relevant hashtags for your text content, simplifying the process of social media sharing and content tagging.
 
+- **News Category Classification and Prediction**: Given a news headline, the model categorizes headline into predefined categories, such as Finance/Economy, Health/Science, Environment/Climate, Technology, Politics, Community/Local, Sports, Entertainment, or Space/Science.
+
+
+

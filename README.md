@@ -24,13 +24,19 @@ For More Visit: https://cloud.google.com/vertex-ai/docs/generative-ai/learn/mode
 
 ## Features
 
-- **Article Summarization**: Implement an article summarizer using Large Language Models to generate concise and informative summaries of long articles.
-
-- **Article Title Generation**: Generate compelling article titles with the help of text-bison Large Language Models, ensuring your content captures readers' attention.
-
-- **Hashtag Generation**: Automatically generate relevant hashtags for your text content, simplifying the process of social media sharing and content tagging.
-
-- **News Category Classification and Prediction**: Given a news headline, the model categorizes headline into predefined categories, such as Finance/Economy, Health/Science, Environment/Climate, Technology, Politics, Community/Local, Sports, Entertainment, or Space/Science.
 
 
+## Key Features
+
+1. **Article Summarization**: Utilize Large Language Models to generate concise and informative summaries for lengthy articles, improving content digestion.
+
+2. **Article Title Generation**: Craft captivating article titles with the assistance of text-based Large Language Models, ensuring your content grabs readers' attention.
+
+3. **Hashtag Generation**: Automatically create relevant hashtags for your text content, simplifying the process of social media sharing and content tagging.
+
+4. **News Category Classification and Prediction**: Categorize news headlines into predefined categories such as Finance/Economy, Health/Science, Environment/Climate, Technology, Politics, Community/Local, Sports, Entertainment, or Space/Science, facilitating content organization.
+
+5. **Product Pitch Generator**: Empower your marketing efforts with the "Product Pitch Generator," driven by a Large Language Model (LLM). Streamline the creation of persuasive product pitches, focusing on newly launched products. Customize input data, including product name, unique selling points, features, and competitive advantages, to generate compelling pitches that resonate with potential customers. Save time, maintain consistency, and elevate your marketing strategy.
+
+6. **Product Summary Generator**: Leverage the Product Summary Generator, powered by LLM technology, to transform detailed product descriptions into concise and engaging summaries. Input the product's description, and let the LLM distill essential features, benefits, and specifications. Enhance your product presentation, save time, and ensure clarity for your customers, leading to informed purchasing decisions.
 
